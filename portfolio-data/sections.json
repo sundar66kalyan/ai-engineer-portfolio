@@ -1,0 +1,44 @@
+[
+  {
+    "id": "hero",
+    "label": "Hero",
+    "enabled": true,
+    "order": 1
+  },
+  {
+    "id": "about",
+    "label": "About",
+    "enabled": true,
+    "order": 2
+  },
+  {
+    "id": "skills",
+    "label": "Skills",
+    "enabled": true,
+    "order": 3
+  },
+  {
+    "id": "projects",
+    "label": "AI Projects",
+    "enabled": true,
+    "order": 4
+  },
+  {
+    "id": "gallery",
+    "label": "Project Gallery",
+    "enabled": true,
+    "order": 5
+  },
+  {
+    "id": "resume",
+    "label": "Resume",
+    "enabled": true,
+    "order": 6
+  },
+  {
+    "id": "contact",
+    "label": "Contact",
+    "enabled": true,
+    "order": 7
+  }
+]

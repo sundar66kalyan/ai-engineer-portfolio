@@ -1,0 +1,28 @@
+[
+  {
+    "id": "resume-screening-ai",
+    "title": "Resume Screening AI",
+    "domain": "NLP",
+    "problem": "Automates candidate resume screening using natural language processing",
+    "dataset": "Kaggle Resume Dataset",
+    "model": "BERT (fine-tuned transformer)",
+    "metrics": {
+      "f1_score": 0.89,
+      "accuracy": 0.91
+    },
+    "results": "Reduced manual resume screening effort by approximately 60%",
+    "github": "https://github.com/yourusername/resume-screening-ai",
+    "demo": "",
+    "media": {
+      "images": [],
+      "videos": [],
+      "audio": []
+    },
+    "tags": ["NLP", "BERT", "Deep Learning", "Transformers"],
+    "languages": {
+      "en": {
+        "description": "AI-powered resume screening system using transformer-based NLP models."
+      }
+    }
+  }
+]

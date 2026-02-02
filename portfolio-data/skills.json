@@ -1,0 +1,32 @@
+{
+  "languages": [
+    "Python",
+    "SQL"
+  ],
+  "machineLearning": [
+    "Scikit-learn",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "nlpGenAI": [
+    "Transformers",
+    "Hugging Face",
+    "LangChain"
+  ],
+  "data": [
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  "mlops": [
+    "Docker",
+    "FastAPI",
+    "MLflow",
+    "GitHub Actions"
+  ],
+  "cloud": [
+    "AWS (Basics)",
+    "GCP (Basics)"
+  ]
+}
